@@ -1,0 +1,5 @@
+jose|pepeluchojlda@gmail.com|$2y$10$5fngGLKrVaQLqAhIeGMvie/adnifckDmr1eZdhxud2KhetKWF1Y6m
+luis|pepelucho@gmail.com|$2y$10$/oRPrHjnYUo57J4m9ATVuenNb79ij93GMZ3NgIHAvh1YZiDCTwibK
+lucho|lucho@gmail.com|$2y$10$/sC70ByiJei6t8pIKM9NpuFRFaMSHNg4XqyYid.dbqVRcbPSUryXajosedavila|josedavila@gmail.com|$2y$10$86s2LDo4am/7xmcJ7gUcMOTjmCmya/sEnqtZmPt6m.eXE7js8Nj8S
+JoseDavila|josedavila@gmail.com|$2y$10$rxwA1.rQoMTFNylKK4mdY.Zwoz9.YJDDln.n/hi.f3UBO9ZUj/ume
+JoseDavila|pepeluchojlda@gmail.com|$2y$10$/SsIXh5cpNE4mwN9bY2Q3.pMGiWeHksXh4kpEHklzxpkzVoHJEQ7C
